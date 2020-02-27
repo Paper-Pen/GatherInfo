@@ -59,6 +59,8 @@
 
 ## 常用信息搜集
 
++ net config workstation   #查看当前登录域
+
 + net user /domain   # 获得所有域用户列表
 
 + net view /domain   # 查看所有的域
