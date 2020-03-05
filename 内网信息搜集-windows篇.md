@@ -44,6 +44,8 @@
 
 + laZagne.exe all -oN   # 本地wifi/浏览器等密码
 
++ dir %APPDATA%\Microsoft\Windows\Recent   # 查看最近打开的文档
+
 ## 连通性
 
 + ping www.baidu.com   # ICMP连通性
