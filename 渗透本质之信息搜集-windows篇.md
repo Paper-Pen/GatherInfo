@@ -61,6 +61,7 @@
 + Seebug：https://www.seebug.org
 + Exploit Database：https://www.exploit-db.com
 + Vulners：https://vulners.com
++ Sploitus：https://sploitus.com
 # 信息深度搜集：
 ## 指纹识别
 + 火狐插件：Wappalyzer
