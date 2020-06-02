@@ -6,7 +6,7 @@
 
 + net user   # 查看所有用户
 
-+ query   # 查看当前在线用户
++ query user   # 查看当前在线用户
 
 + ipconfig /all   # 查看当前主机的主机名/IP/DNS等信息
 
