@@ -2,17 +2,15 @@
 ## Whois信息
 + 站长之家：http://whois.chinaz.com
 + Bugscaner：http://whois.bugscaner.com
-+ 爱站网：https://www.aizhan.com
 + 国外在线：https://bgp.he.net
 ## 一级域名
 + 企查查：https://www.qichacha.com
 + 备案查询网：http://www.beianbeian.com
 ## 子域名
 + OneForAll：https://github.com/shmilylty/OneForAll
++ ksubdomain：https://github.com/knownsec/ksubdomain
 + subDomainsBrute：https://github.com/lijiejie/subDomainsBrute
 + Sublist3r：https://github.com/aboul3la/Sublist3r
-+ DNS二进制搜索：https://dns.bufferover.run/dns?q=.baidu.com
-+ Crt：https://crt.sh
 ## 旁站
 + 在线：http://stool.chinaz.com/same
 + 在线：https://www.webscan.cc
@@ -21,11 +19,11 @@
 + 国外ping：https://asm.ca.com/en/ping.php （支持ipv6）
 + dns检测：https://tools.ipip.net/dns.php
 + Xcdn：https://github.com/3xp10it/xcdn
-+ 在线：https://webiplookup.com
-+ Netcraft：https://toolbar.netcraft.com/site_report?url=
++ 在线：https://ipchaxun.com
 ## 端口+C段
 + Nmap：https://nmap.org
 + masscan：https://github.com/robertdavidgraham/masscan
++ Goby：https://gobies.org
 + 御剑：https://github.com/foryujian/yujianportscan
 ## 敏感信息
 ### googlehack语法
@@ -46,16 +44,16 @@
 + site:xxx.xxx inurl:uid=/id=
 + site:xxx.xxx intitle:index of
 ### Github
-+ @xxx.xxx password/secret/credentials/token/config/pass/login/ftp/pwd
++ @xxx.xxx password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
 + @xxx.xxx security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
 ### 网盘引擎
 + 盘多多：http://www.panduoduo.net
 + 大力盘：https://dalipan.com
 + 凌风搜索：https://www.lingfengyun.com (下载付费)
 ### 其他搜索
++ FOFA：https://fofa.so
 + Shadon：https://www.shodan.io
 + ZoomEye：https://www.zoomeye.org
-+ FOFA：https://fofa.so
 ### 历史漏洞
 + 乌云镜像：https://shuimugan.com
 + Seebug：https://www.seebug.org
@@ -67,11 +65,11 @@
 + 火狐插件：Wappalyzer
 + 云悉：http://www.yunsee.cn
 + whatweb：https://www.whatweb.net
-+ 在线：http://whatweb.bugscaner.com/look
++ 在线：http://whatweb.bugscaner.com/look (支持批量)
 ## 目录扫描
-+ 御剑1.5
-+ 7kbscan：https://github.com/7kbstorm/7kbscan-WebPathBrute
++ Dirmap：https://github.com/H4ckForJob/dirmap
 + dirsearch：https://github.com/maurosoria/dirsearch
++ 7kbscan：https://github.com/7kbstorm/7kbscan-WebPathBrute
 ## JS接口
 + JSFinder：https://github.com/Threezh1/JSFinder
 + LinkFinder：https://github.com/GerbenJavado/LinkFinder
