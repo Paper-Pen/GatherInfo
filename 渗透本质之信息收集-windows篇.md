@@ -13,7 +13,7 @@
 + Sublist3r：https://github.com/aboul3la/Sublist3r
 ## 旁站
 + 在线：http://stool.chinaz.com/same
-+ 在线：https://www.webscan.cc
++ 在线：https://site.ip138.com
 ## 真实ip
 + 全球ping：https://www.wepcc.com
 + 国外ping：https://asm.ca.com/en/ping.php （支持ipv6）
