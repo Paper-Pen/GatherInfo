@@ -1,4 +1,4 @@
-# 信息广度搜集：
+# 信息广度收集：
 ## Whois信息
 + 站长之家：http://whois.chinaz.com
 + Bugscaner：http://whois.bugscaner.com
@@ -60,7 +60,7 @@
 + Exploit Database：https://www.exploit-db.com
 + Vulners：https://vulners.com
 + Sploitus：https://sploitus.com
-# 信息深度搜集：
+# 信息深度收集：
 ## 指纹识别
 + 火狐插件：Wappalyzer
 + 云悉：http://www.yunsee.cn
