@@ -67,7 +67,7 @@
 
 + net view /domain   # 查看所有的域
 
-+ net view /domain:XXX   # 查看域内某台主机详情
++ net view /domain:XXX   # 查看该域内所有主机
 
 + net group /domain   # 查看所有域用户组列表
 
@@ -86,6 +86,10 @@
 + net accounts /domain   # 查看域密码策略
 
 + dsquery server   # 寻找目录中的域控制器
+
++ netdom query pdc   # 查看域控制器主机名
+
++ wmic useraccount get /all   #获取域内用户的详细信息
 
 ## 环境信息搜集
 
