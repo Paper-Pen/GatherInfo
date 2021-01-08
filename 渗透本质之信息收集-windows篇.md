@@ -59,7 +59,7 @@
 + Shadon：https://www.shodan.io
 + ZoomEye：https://www.zoomeye.org
 ### 历史漏洞
-+ 乌云镜像：https://shuimugan.com
++ 乌云镜像：https://wooyun.x10sec.org
 + Seebug：https://www.seebug.org
 + Exploit Database：https://www.exploit-db.com
 + Vulners：https://vulners.com
