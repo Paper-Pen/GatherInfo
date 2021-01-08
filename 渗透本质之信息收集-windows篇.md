@@ -11,6 +11,7 @@
 + ksubdomain：https://github.com/knownsec/ksubdomain
 + subDomainsBrute：https://github.com/lijiejie/subDomainsBrute
 + Sublist3r：https://github.com/aboul3la/Sublist3r
++ RappidDns：https://rapiddns.io/subdomain
 ## 旁站
 + 在线：http://stool.chinaz.com/same
 + 在线：https://site.ip138.com
@@ -28,24 +29,27 @@
 ## 敏感信息
 ### googlehack语法
 1. 后台地址
-+ site:xxx.xxx 管理后台/登陆/管理员/系统
-+ site:xxx.xxx inurl:login/admin/system/guanli/denglu
++ site:xxx.com 管理后台/登陆/管理员/系统
++ site:xxx.com inurl:login/admin/system/guanli/denglu
 2. 敏感文件
-+ site:xxx.xxx filetype:pdf/doc/xls/txt
-+ site:xxx.xxx filetype:log/sql/conf
++ site:xxx.com filetype:pdf/doc/xls/txt
++ site:xxx.com filetype:log/sql/conf
 3. 测试环境
-+ site:xxx.xxx inurl:test/ceshi
-+ site:xxx.xxx intitle:测试
++ site:xxx.com inurl:test/ceshi
++ site:xxx.com intitle:测试
 4. 邮箱/QQ/群
-+ site:xxx.xxx 邮件/email
-+ site:xxx.xxx qq/群/企鹅/腾讯
++ site:xxx.com 邮件/email
++ site:xxx.com qq/群/企鹅/腾讯
++ site:xxx.com intitle:"Outlook Web App"
++ site:xxx.com intitle:"mail"
++ site:xxx.com intitle:"webmail"
 5. 其他
-+ site:xxx.xxx inurl:api
-+ site:xxx.xxx inurl:uid=/id=
-+ site:xxx.xxx intitle:index of
++ site:xxx.com inurl:api
++ site:xxx.com inurl:uid=/id=
++ site:xxx.com intitle:index of
 ### Github
-+ @xxx.xxx password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
-+ @xxx.xxx security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
++ @xxx.com password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
++ @xxx.com security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
 ### 网盘引擎
 + 盘多多：http://www.panduoduo.net
 + 大力盘：https://dalipan.com
