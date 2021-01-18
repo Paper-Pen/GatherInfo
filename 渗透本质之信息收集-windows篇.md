@@ -46,7 +46,7 @@
 5. 其他
 + site:xxx.com inurl:api
 + site:xxx.com inurl:uid=/id=
-+ site:xxx.com intitle:index of
++ site:xxx.com intitle:index.of "server at"
 ### Github
 + @xxx.com password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
 + @xxx.com security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
