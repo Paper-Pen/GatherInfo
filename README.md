@@ -3,7 +3,7 @@
 <h3 align="center" >做好信息收集是一次渗透测试的良好开端</h3>
 
 <p align="center">
-    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/rtcatc/GatherInfo.svg"></a>
+    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/Paper-Pen/GatherInfo.svg"></a>
     <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/badge/GatherInfo-green"></a>
 </p>
 
@@ -18,4 +18,4 @@
 ## 关于更新
 一旦发现好用的工具和网站，立即更新
 ## Star曲线
-[![Star曲线](https://starchar.cc/Paper-Pen/GatherInfo.svg)](https://starchar.cc/Paper-Pen/GatherInfo)
+<a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://star-history.t9t.io/#Paper-Pen/GatherInfo"></a>
