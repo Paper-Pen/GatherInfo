@@ -1,3 +1,11 @@
+<h1 align="center" >GatherInfo</h1>
+
+<h3 align="center" >做好信息收集，才能做好渗透测试</h3>
+
+ <p align="center">
+    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/rtcatc/Packer-Fuzzer.svg"></a>
+    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/badge/GatherInfo-green"></a>
+ </p>
 # GatherInfo
 详情请点击
 1. [渗透本质之信息收集-windows篇.md](https://github.com/Paper-Pen/GatherInfo/blob/master/%E6%B8%97%E9%80%8F%E6%9C%AC%E8%B4%A8%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86-windows%E7%AF%87.md)
