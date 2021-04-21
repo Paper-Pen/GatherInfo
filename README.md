@@ -3,6 +3,7 @@
 <h3 align="center" >做好信息收集是一次渗透测试的良好开端</h3>
 
 <p align="center">
+    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://visitor-badge.glitch.me/badge?page_id=Paper-Pen.GatherInfo"></a>
     <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/Paper-Pen/GatherInfo.svg"></a>
     <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/badge/GatherInfo-green"></a>
 </p>
