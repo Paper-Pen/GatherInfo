@@ -3,7 +3,7 @@
 <h3 align="center" >做好信息收集，才能做好渗透测试</h3>
 
  <p align="center">
-    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/rtcatc/Packer-Fuzzer.svg"></a>
+    <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/github/stars/rtcatc/GatherInfo.svg"></a>
     <a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://img.shields.io/badge/GatherInfo-green"></a>
  </p>
 # GatherInfo
@@ -16,7 +16,5 @@
 3. 整理不易，如觉得有帮助，希望能给个star，多谢
 # 关于更新
 一旦发现好用的工具和网站，立即更新
-# 联系方式
-QQ：1123276773
 # 其他贡献者
 flashine、sircoding
