@@ -19,4 +19,4 @@
 ## 关于更新
 一旦发现好用的工具和网站，立即更新
 ## Star曲线
-<a href="https://github.com/Paper-Pen/GatherInfo"><img alt="GatherInfo" src="https://star-history.t9t.io/#Paper-Pen/GatherInfo"></a>
+![star](https://starchart.cc/Paper-Pen/GatherInfo.svg)
