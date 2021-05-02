@@ -11,13 +11,13 @@
 + ksubdomain：https://github.com/knownsec/ksubdomain
 + subDomainsBrute：https://github.com/lijiejie/subDomainsBrute
 + Sublist3r：https://github.com/aboul3la/Sublist3r
-+ RappidDns：https://rapiddns.io/subdomain
++ RappidDns：https://rapiddns.io/subdomain (在线)
++ 查子域：https://chaziyu.com/ (在线)
 ## 旁站
 + 在线：http://stool.chinaz.com/same
 + 在线：https://site.ip138.com
 ## 真实ip
 + 全球ping：https://www.wepcc.com
-+ 国外ping：https://asm.ca.com/en/ping.php （支持ipv6）
 + dns检测：https://tools.ipip.net/dns.php
 + Xcdn：https://github.com/3xp10it/xcdn
 + 在线：https://ipchaxun.com
@@ -56,6 +56,7 @@
 + 凌风搜索：https://www.lingfengyun.com (下载付费)
 ### 其他搜索
 + FOFA：https://fofa.so
++ Quake：https://quake.360.cn/quake/#/index
 + Shadon：https://www.shodan.io
 + ZoomEye：https://www.zoomeye.org
 ### 历史漏洞
@@ -64,6 +65,12 @@
 + Exploit Database：https://www.exploit-db.com
 + Vulners：https://vulners.com
 + Sploitus：https://sploitus.com
+## APP
++ 小蓝本：https://www.xiaolanben.com
++ 七麦：https://www.qimai.cn
++ AppStore：https://www.apple.com/app-store
+## 公众号
++ 搜狗：https://weixin.sogou.com
 # 信息深度收集：
 ## 指纹识别
 + 火狐插件：Wappalyzer
@@ -77,6 +84,7 @@
 ## JS接口
 + JSFinder：https://github.com/Threezh1/JSFinder
 + LinkFinder：https://github.com/GerbenJavado/LinkFinder
++ Packer-Fuzzer：https://github.com/rtcatc/Packer-Fuzzer (webpack)
 + 搜索关键接口
 1. config/api
 2. method:"get"
@@ -87,5 +95,5 @@
 7. service.httppost
 8. service.httpget
 ## WAF识别
-+ wafw00f：https://github.com/EnableSecurity/wafw00f
 + WhatWaf：https://github.com/Ekultek/WhatWaf
++ wafw00f：https://github.com/EnableSecurity/wafw00f
