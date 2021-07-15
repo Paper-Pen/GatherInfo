@@ -5,7 +5,7 @@
 + 国外在线：https://bgp.he.net
 ## 一级域名
 + 企查查：https://www.qichacha.com
-+ 备案查询网：http://www.beianbeian.com
++ 天眼查：https://www.tianyancha.com
 ## 子域名
 + OneForAll：https://github.com/shmilylty/OneForAll
 + ksubdomain：https://github.com/knownsec/ksubdomain
