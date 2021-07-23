@@ -70,13 +70,17 @@
 + 七麦：https://www.qimai.cn
 + AppStore：https://www.apple.com/app-store
 ## 公众号
++ 微信直接搜索
 + 搜狗：https://weixin.sogou.com
+## 小程序
++ 微信直接搜索
 # 信息深度收集：
 ## 指纹识别
 + 火狐插件：Wappalyzer
 + 云悉：http://www.yunsee.cn
 + whatweb：https://www.whatweb.net
 + 在线：http://whatweb.bugscaner.com/look (支持批量)
++ Nuclei：https://github.com/projectdiscovery/nuclei
 ## 目录扫描
 + Dirmap：https://github.com/H4ckForJob/dirmap
 + dirsearch：https://github.com/maurosoria/dirsearch
