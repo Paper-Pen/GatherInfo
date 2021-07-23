@@ -51,9 +51,9 @@
 + @xxx.com password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
 + @xxx.com security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
 ### 网盘引擎
++ 盘搜搜：http://www.pansoso.org
 + 盘多多：http://www.panduoduo.net
 + 大力盘：https://dalipan.com
-+ 凌风搜索：https://www.lingfengyun.com (下载付费)
 ## 空间引擎搜索
 + FOFA：https://fofa.so
 + Quake：https://quake.360.cn/quake/#/index
