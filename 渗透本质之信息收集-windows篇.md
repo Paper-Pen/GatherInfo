@@ -6,6 +6,7 @@
 ## 一级域名
 + 企查查：https://www.qichacha.com
 + 天眼查：https://www.tianyancha.com
++ 爱企查：https://aiqicha.baidu.com
 ## 子域名
 + OneForAll：https://github.com/shmilylty/OneForAll
 + ksubdomain：https://github.com/knownsec/ksubdomain
@@ -23,29 +24,23 @@
 + 在线：https://ipchaxun.com
 ## 端口+C段
 + Nmap：https://nmap.org
-+ masscan：https://github.com/robertdavidgraham/masscan
-+ Goby：https://gobies.org
-+ 御剑：https://github.com/foryujian/yujianportscan
++ Fscan：https://github.com/shadow1ng/fscan
++ Txportmap：https://github.com/4dogs-cn/TXPortMap
++ Masscan：https://github.com/robertdavidgraham/masscan
 ## 敏感信息
-### googlehack语法
+### Googlehack语法
 1. 后台地址
-+ site:xxx.com 管理后台/登陆/管理员/系统
-+ site:xxx.com inurl:login/admin/system/guanli/denglu
++ site:xxx.com intitle:管理|后台|登陆|管理员|系统|内部
++ site:xxx.com inurl:login|admin|system|guanli|denglu|manage|admin_login|auth|dev
 2. 敏感文件
-+ site:xxx.com filetype:pdf/doc/xls/txt
-+ site:xxx.com filetype:log/sql/conf
++ site:xxx.com (filetype:doc OR filetype:ppt OR filetype:pps OR filetype:xls OR filetype:docx OR filetype:pptx OR filetype:ppsx OR filetype:xlsx OR filetype:odt OR filetype:ods OR filetype:odg OR filetype:odp OR filetype:pdf OR filetype:wpd OR filetype:svg OR filetype:svgz OR filetype:indd OR filetype:rdp OR filetype:sql OR filetype:xml OR filetype:db OR filetype:mdb OR filetype:sqlite OR filetype:log OR filetype:conf)
 3. 测试环境
-+ site:xxx.com inurl:test/ceshi
++ site:xxx.com inurl:test|ceshi
 + site:xxx.com intitle:测试
-4. 邮箱/QQ/群
-+ site:xxx.com 邮件/email
-+ site:xxx.com qq/群/企鹅/腾讯
-+ site:xxx.com intitle:"Outlook Web App"
-+ site:xxx.com intitle:"mail"
-+ site:xxx.com intitle:"webmail"
+4. 邮箱
++ site:xxx.com (intitle:"Outlook Web App" OR intitle:"邮件" OR inurl:"email" OR inurl:"webmail")
 5. 其他
-+ site:xxx.com inurl:api
-+ site:xxx.com inurl:uid=/id=
++ site:xxx.com inurl:api|uid=|id=|userid=|token|session
 + site:xxx.com intitle:index.of "server at"
 ### Github
 + @xxx.com password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
@@ -57,6 +52,7 @@
 ## 空间引擎搜索
 + FOFA：https://fofa.so
 + Quake：https://quake.360.cn/quake/#/index
++ Hunter：https://hunter.qianxin.com
 + Shadon：https://www.shodan.io
 + ZoomEye：https://www.zoomeye.org
 ## 历史漏洞
@@ -66,7 +62,7 @@
 + Vulners：https://vulners.com
 + Sploitus：https://sploitus.com
 ## APP
-+ 小蓝本：https://www.xiaolanben.com
++ 小蓝本：https://www.xiaolanben.com/pc
 + 七麦：https://www.qimai.cn
 + AppStore：https://www.apple.com/app-store
 ## 公众号
@@ -74,17 +70,19 @@
 + 搜狗：https://weixin.sogou.com
 ## 小程序
 + 微信直接搜索
++ 小蓝本：https://www.xiaolanben.com/pc
 # 信息深度收集：
 ## 指纹识别
 + 火狐插件：Wappalyzer
 + 云悉：http://www.yunsee.cn
-+ whatweb：https://www.whatweb.net
-+ 在线：http://whatweb.bugscaner.com/look (支持批量)
-+ Nuclei：https://github.com/projectdiscovery/nuclei
++ TideFinger：https://github.com/TideSec/TideFinger
++ ObserverWard:https://github.com/0x727/ObserverWard_0x727
+## Title识别
++ WebBatchRequest：https://github.com/ScriptKid-Beta/WebBatchRequest
++ Bscan：https://github.com/broken5/bscan
 ## 目录扫描
 + Dirmap：https://github.com/H4ckForJob/dirmap
 + dirsearch：https://github.com/maurosoria/dirsearch
-+ 7kbscan：https://github.com/7kbstorm/7kbscan-WebPathBrute
 ## JS接口
 + JSFinder：https://github.com/Threezh1/JSFinder
 + LinkFinder：https://github.com/GerbenJavado/LinkFinder
@@ -101,3 +99,7 @@
 ## WAF识别
 + WhatWaf：https://github.com/Ekultek/WhatWaf
 + wafw00f：https://github.com/EnableSecurity/wafw00f
+# 综合利用工具
++ Goby：https://gobies.org
++ Xray：https://github.com/chaitin/xray
++ Nuclei：https://github.com/projectdiscovery/nuclei
