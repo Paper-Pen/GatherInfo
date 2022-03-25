@@ -11,8 +11,6 @@
 + OneForAll：https://github.com/shmilylty/OneForAll
 + ksubdomain：https://github.com/knownsec/ksubdomain
 + subDomainsBrute：https://github.com/lijiejie/subDomainsBrute
-+ Sublist3r：https://github.com/aboul3la/Sublist3r
-+ RappidDns：https://rapiddns.io/subdomain (在线)
 + 查子域：https://chaziyu.com/ (在线)
 ## 旁站
 + 在线：http://stool.chinaz.com/same
@@ -46,9 +44,7 @@
 + @xxx.com password/secret/credentials/token/config/pass/login/ftp/ssh/pwd
 + @xxx.com security_credentials/connetionstring/JDBC/ssh2_auth_password/send_keys
 ### 网盘引擎
-+ 盘搜搜：http://www.pansoso.org
-+ 盘多多：http://www.panduoduo.net
-+ 大力盘：https://dalipan.com
++ 超能搜：https://www.chaonengsou.com
 ## 空间引擎搜索
 + FOFA：https://fofa.so
 + Quake：https://quake.360.cn/quake/#/index
@@ -75,6 +71,7 @@
 ## 指纹识别
 + 火狐插件：Wappalyzer
 + 云悉：http://www.yunsee.cn
++ EHole：https://github.com/EdgeSecurityTeam/EHole
 + TideFinger：https://github.com/TideSec/TideFinger
 + ObserverWard:https://github.com/0x727/ObserverWard_0x727
 ## Title识别
