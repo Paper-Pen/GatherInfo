@@ -9,9 +9,8 @@
 </p>
 
 ## 🏝 GatherInfo
-详情请点击
-1. [渗透本质之信息收集.md](https://github.com/Paper-Pen/GatherInfo/blob/master/%E6%B8%97%E9%80%8F%E6%9C%AC%E8%B4%A8%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86.md)
-2. [内网渗透之信息收集-windows篇.md](https://github.com/Paper-Pen/GatherInfo/blob/master/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%90%9C%E9%9B%86-windows%E7%AF%87.md)
+详情请点击[渗透测试与SRC挖掘信息收集.md](https://github.com/Paper-Pen/GatherInfo/blob/master/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%8ESRC%E6%8C%96%E6%8E%98%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86.md)
+
 ## 🎸 交流
 1. 本项目中所规整的都是本人平时攻防以及挖SRC时常用的工具和网站
 2. 如果你也有比较好用的工具或网站并且愿意分享，欢迎起来一起交流
